@@ -21,13 +21,18 @@
 - Connect to dummy data
 - **Commit & push daily progress**
 
-## Day 5 – Charts
+## Day 5 – Analytics Page & Charts
+- Build Analytics page
 - Add chart components
-- Test with mock analytics
+- Test charts with mock data
 - **Commit & push daily progress**
 
-## Day 6 – Responsiveness
-- Mobile & tablet layout adjustments
+## Day 6 – Sidebar, Pages & Responsiveness
+- Build Booking page
+- Build Students page
+- Build Toolkit page
+- Build Settings page
+- Adjust layouts for mobile & tablet
 - Test all components
 - **Commit & push daily progress**
 
