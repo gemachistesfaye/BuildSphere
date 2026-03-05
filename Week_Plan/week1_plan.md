@@ -27,14 +27,14 @@
 - Test charts with mock data
 - **Commit & push daily progress**
 
-## Day 6 – Sidebar, Pages & Responsiveness
+## Day 6 – Finish Pages  
 - Build Booking page
 - Build Students page
 - Build Toolkit page
 - Build Settings page
 - **Commit & push daily progress**
 
-## Day 7 – Refactor & Polish
+## Day 7 – Responsiveness, Refactor & Polish
 - Adjust layouts for mobile & tablet
 - Test all components
 - Clean code
