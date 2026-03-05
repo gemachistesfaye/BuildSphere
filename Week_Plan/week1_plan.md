@@ -32,11 +32,11 @@
 - Build Students page
 - Build Toolkit page
 - Build Settings page
-- Adjust layouts for mobile & tablet
-- Test all components
 - **Commit & push daily progress**
 
 ## Day 7 – Refactor & Polish
+- Adjust layouts for mobile & tablet
+- Test all components
 - Clean code
 - Improve comments & file structure
 - Update README.md & WEEK_PLAN.md
