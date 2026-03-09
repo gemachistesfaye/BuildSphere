@@ -29,7 +29,7 @@ It combines **full-stack development, professional frontend UI and data analytic
 
 | Week | Focus | Key Deliverables | Status | Weekly Plan |
 |------|-------|-----------------|--------|-------------|
-| Week 1 | React Setup & Dashboard Layout | Sidebar, Navbar, Cards, Charts | ⬜ | [View Week 1](./Week_Plan/week1_plan.md) |
+| Week 1 | React Setup & Dashboard Layout | Sidebar, Navbar, Cards, Charts | ✅ | [View Week 1](./Week_Plan/week1_plan.md) |
 | Week 2 | Reusable Components & Theme | Tables, Advanced Charts, Light/Dark Theme | ⬜ | [View Week 2](./Week_Plan/week2_plan.md) |
 | Week 3 | Airline System Backend | DB Schema, Booking Scripts, API | ⬜ | [View Week 3](./Week_Plan/week3_plan.md) |
 | Week 4 | Airline Dashboard | Admin Panel, Flights Table, Analytics Charts | ⬜ | [View Week 4](./Week_Plan/week4_plan.md) |
